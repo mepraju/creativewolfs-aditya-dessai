@@ -1227,7 +1227,7 @@ p:last-child {
 }
 @media (min-width: 1200px) {
   .hero-portrait {
-    right: -155px;
+    right: 10px;
     width: auto;
   }
 }
